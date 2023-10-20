@@ -1,3 +1,3 @@
 # Projeto_Barbearia
 
-Landing page de uma barbearia onde você consegue conferir informações da empresa como, hórario de funcionamento, localização, e rede social. Também é possivel entrar em contato com a empresa atraves do botão "Entrar em Contato" onde voce será redirecionado para o whatszapp da barbearia e coversar, tirar suas duvidas e marcar o horario com o antendente. Além disso tuodo, o site é responsivo e possui portabilidade de tela para todos os dipositivos populares.
+Landing page de uma barbearia onde você pode acessar informações sobre a empresa, como horário de funcionamento, localização e redes sociais. Além disso, é possível entrar em contato com a empresa através do botão "Entrar em Contato", que o redirecionará para o WhatsApp da barbearia, onde você pode conversar, tirar suas dúvidas e marcar um horário com um atendente. O site também é responsivo e tem portabilidade de tela para todos os dispositivos populares.
